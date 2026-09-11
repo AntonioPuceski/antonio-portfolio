@@ -95,28 +95,28 @@ function App() {
     {
       title: "Gambling App",
       desc: "Fun gambling simulator with multiple mini-games.",
-      link: "https://github.com/Ton4ee/gambling-app",
+      link: "https://github.com/AntonioPuceski/gambling-app",
       tech: "JavaScript, HTML, CSS",
       images: ["/resume/gambling black jack.png","/resume/gambling coin toss.png","/resume/gambling slot machine.png"],
     },
     {
       title: "Personal Finance Manager",
       desc: "Track expenses and manage finances with a full-stack app.",
-      link: "https://github.com/Ton4ee/-personal-finance-manager",
+      link: "https://github.com/AntonioPuceski/-personal-finance-manager",
       tech: "React, Node.js, MongoDB",
       images: ["/resume/personal finance.png","/resume/personal finance 2.png","/resume/personal finance 3.png"],
     },
     {
       title: "Product App",
       desc: "CRUD product management application.",
-      link: "https://github.com/Ton4ee/ProductApp",
+      link: "https://github.com/AntonioPuceski/ProductApp",
       tech: "React, Node.js",
       images: ["/resume/product app.png"],
     },
     {
       title: "Weather App",
       desc: "A simple weather app fetching live data.",
-      link: "https://github.com/Ton4ee/WeatherApp",
+      link: "https://github.com/AntonioPuceski/WeatherApp",
       tech: "React, Tailwind, API",
       images: ["/resume/weather app.jpg"],
     },
@@ -181,7 +181,7 @@ function App() {
         {/* SEE MORE PROJECTS BUTTON */}
         <div className="col-span-full flex justify-center mt-8">
           <motion.a
-            href="https://github.com/Ton4ee"
+            href="https://github.com/AntonioPuceski"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 text-white font-bold rounded-xl shadow-lg hover:scale-105 transition-transform"
